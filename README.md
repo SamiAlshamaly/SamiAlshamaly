@@ -88,9 +88,6 @@ A full-featured cybersecurity scanner designed to assist professionals in real-w
 
 📘 Facebook
 
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamiKhatatba&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com?user=SamiKhatatba&theme=dark&hide_border=true" alt="GitHub Streak"/> </p>
-
 💬 Quote to Live By
 “Hack to learn. Secure to protect.”
 — Sami Khatatba
