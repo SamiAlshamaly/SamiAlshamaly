@@ -1,44 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sami Khatatba</h1>
-<h3 align="center">Cybersecurity Expert | Ethical Hacker | Creator of Pal.Sniper Pro</h3>
+<h1 align="center">🛡️ Sami Khatatba</h1>
+<h3 align="center">Cybersecurity Specialist | Ethical Hacker | Creator of Pal.Sniper Pro</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Specialty-Infosec%20%26%20PenTesting-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tools-Pal.Sniper%20Pro-orange?style=flat-square"/>
+  <a href="https://palsniper.site" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Official%20Site-black?style=for-the-badge&logo=Firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sami_alshamaly/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.facebook.com/Sami.Khatatba" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 💼 Over **10 years** of experience in cybersecurity, penetration testing, and digital defense.
-- 🛠️ Creator of **Pal.Sniper Pro**, a powerful open-source vulnerability scanner.
-- 🔍 Passionate about ethical hacking, exploit research, and cybersecurity education.
-- 🌍 Dedicated to making the internet safer through open-source tools and awareness.
-- ✍️ Building tools, sharing knowledge, and mentoring in the InfoSec community.
+🔐 I'm a **Cybersecurity Expert** with over **10 years** of experience in securing digital infrastructure, performing ethical hacking, and building open-source security tools.
 
----
+💡 I created **[Pal.Sniper Pro](https://palsniper.site)** — a powerful GUI-based vulnerability scanner for web applications.
 
-### 🚀 Featured Project
-
-🔗 **Official Website for Pal.Sniper Pro**  
-👉 [https://palsniper.site/](https://palsniper.site/)
-
-> Visit the site to download the tool, explore features, read documentation, and stay updated.
+🎯 My mission is to make the internet safer by developing high-impact tools and spreading awareness.
 
 ---
 
-### 🌐 Connect with Me
+### 🔥 Pal.Sniper Pro – Official Tool
 
-- 🌍 Website: [https://palsniper.site/](https://palsniper.site/)
-- 📷 [Instagram](https://www.instagram.com/sami_alshamaly/)
-- 📘 [Facebook](https://www.facebook.com/Sami.Khatatba)
-- 📬 Email: ss7exeee@proton.me
+🚀 **[Visit palsniper.site →](https://palsniper.site)**  
+A professional-grade, multi-tab GUI tool for:
+
+- 🔍 File Discovery (PDF, Images, etc.)
+- 💥 SQLi & XSS Detection
+- 📄 HTTP Headers & Cookie Security
+- 📊 Real-Time Reports with Save & Export
 
 ---
 
-### ⚡ Tools & Technologies
+### ⚙️ Tech Stack
 
 ```text
-💻 Python | Bash | SQL | Linux | Kali | Burp Suite | Wireshark | Nmap | Metasploit | sqlmap
-🌐 Web App Security | OSINT | Vulnerability Assessment | XSS | SQLi | Security Headers
+Languages:   Python | Bash | SQL
+Platforms:   Linux | Kali | Windows | Cloud
+Tools:       Burp Suite | Nmap | Wireshark | sqlmap | Metasploit | ChromeDriver
+Domains:     Web App Security | PenTesting | Red Team | OSINT
