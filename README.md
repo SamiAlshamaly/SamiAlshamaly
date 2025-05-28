@@ -33,7 +33,7 @@
 - 🌍 Website: [https://palsniper.site/](https://palsniper.site/)
 - 📷 [Instagram](https://www.instagram.com/sami_alshamaly/)
 - 📘 [Facebook](https://www.facebook.com/Sami.Khatatba)
-- 📬 Email: sami.khatatba@protonmail.com
+- 📬 Email: ss7exeee@proton.me
 
 ---
 
