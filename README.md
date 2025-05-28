@@ -88,6 +88,5 @@ A full-featured cybersecurity scanner designed to assist professionals in real-w
 
 📘 Facebook
 
-💬 Quote to Live By
 “Hack to learn. Secure to protect.”
 — Sami Khatatba
